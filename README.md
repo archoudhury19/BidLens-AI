@@ -352,4 +352,4 @@ Developed for **Smart India Hackathon (SIH) 2026** by **Team Hexagon** (Team ID:
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
